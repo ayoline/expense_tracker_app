@@ -6,10 +6,10 @@
 
 <table>
     <tr>
-        <td></td>
+        <td>uuid</td>
     </tr>
     <tr>
-        <td></td>
+        <td>^3.0.7</td>
     </tr>
 </table>
 
